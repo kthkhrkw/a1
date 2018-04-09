@@ -6,6 +6,8 @@
 //  Copyright © 平成30年 Kthk Hrkw. All rights reserved.
 //
 
+// コメント　１
+
 #import <UIKit/UIKit.h>
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
