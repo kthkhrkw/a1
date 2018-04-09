@@ -6,7 +6,7 @@
 //  Copyright © 平成30年 Kthk Hrkw. All rights reserved.
 //
 
-// コメント　１
+// コメント １
 
 #import <UIKit/UIKit.h>
 
